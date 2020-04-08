@@ -10,6 +10,7 @@
 }
 body {
 	background:#FFF url(../img/bg.gif) no-repeat left top;
+	/* 文字コードをかっこいいものにかえましょう！ */
 	font-family:Verdana, "ＭＳ Ｐゴシック", sans-serif;
 	font-size:80%;
 }
